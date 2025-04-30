@@ -1,0 +1,71 @@
+EJERCICIO 1️⃣
+----------------------------------------------------------------
+
+- Generar una carpeta en el escritorio llamada practica-git
+- Iniciar un repositorio local.
+- Crear un archivo index.html solo con la plantilla basica.
+- Agregar los archivos al area de preparacion.
+- Hacer un commit y agregar el comentario "Primer comentario"
+- compartir una captura de pantalla donde figure el commit realizado.
+
+Estructura de carpetas
+
+📁 Practica-Git
+    ─ index.html
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJERCICIO 2️⃣
+----------------------------------------------------------------
+
+- Sobre el archivo anteriormente creado
+- Crear una nueva rama Llamada "Rama 1"
+- Moverme a la nueva rama
+- Generar un cambio en el archivo index.html
+- Moverme a a la rama principal.
+- Hacer un Merge de Rama 1 en la rama principal 
+- Escribir el comando git branch y compartir una captura de pantalla 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EJERCICIO 3️⃣
+----------------------------------------------------------------
+
+- Crear un nuevo repositorio en github llamado "Practica-Git"
+- Utilizando la informacion provista por Git enlazar el repositorio
+  local con el remoto por medio del comando git add origin.
+- Agrear los archivos al area de preparacion
+- Hacer push de mis archivos locales al repositorio Remoto.
+- Compartir el enlace del repositorio ya subido en Github
+
+
+
+
+
