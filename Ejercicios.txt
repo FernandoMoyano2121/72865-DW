@@ -2,8 +2,8 @@ EJERCICIO 1️⃣
 ----------------------------------------------------------------
 
 - Generar una carpeta en el escritorio llamada practica-git
-- Iniciar un repositorio local.
 - Crear un archivo index.html solo con la plantilla basica.
+- Iniciar un repositorio local.
 - Agregar los archivos al area de preparacion.
 - Hacer un commit y agregar el comentario "Primer comentario"
 - compartir una captura de pantalla donde figure el commit realizado.
@@ -38,6 +38,7 @@ EJERCICIO 2️⃣
 - Crear una nueva rama Llamada "Rama 1"
 - Moverme a la nueva rama
 - Generar un cambio en el archivo index.html
+- git add .
 - Moverme a a la rama principal.
 - Hacer un Merge de Rama 1 en la rama principal 
 - Escribir el comando git branch y compartir una captura de pantalla 
